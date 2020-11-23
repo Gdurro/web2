@@ -14,7 +14,7 @@
 		
 			<ul class="menu">
 				<li><a href="index.php">Strona główna</a></li>
-				<li><a href="#">Regulamin</a></li>
+				<li><a href="#">Informacje</a></li>
 				<li><a href="#">Premium</a></li>
 				<li><a href="#">Zaloguj się</a></li>
 			</ul>
@@ -24,5 +24,9 @@
 
 	
 	</header>
+    <div class="ogloszenia">
+        <h1>Witajcie Na stronie do uczenia się angielskiego</h1>
+
+    </div>
 </body>
 </html>

@@ -25,7 +25,7 @@ h1.logo
 }
 #topnav
 {
-	background-color: lightcoral;
+	background-color: lightsalmon;
 	text-align: center;
 }
 
@@ -61,4 +61,12 @@ h1.logo
 .menu a:hover
 {
 	color: #0a2b42;
+}
+
+.ogloszenia
+{
+    border: 10px outset red;
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 50px;
 }
